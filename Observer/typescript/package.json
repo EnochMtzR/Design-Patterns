@@ -1,0 +1,14 @@
+{
+  "name": "observer_pattern",
+  "version": "1.0.0",
+  "description": "Very simple observer pattern example on typescript",
+  "main": "index.js",
+  "scripts": {
+    "clean": "node scripts/clean",
+    "build": "npm run clean && tsc",
+    "start": "node dist/WeatherStation.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
