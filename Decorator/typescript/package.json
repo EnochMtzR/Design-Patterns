@@ -1,0 +1,14 @@
+{
+  "name": "Decorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "node scripts/clean.js",
+    "build": "npm run clean && tsc",
+    "start": "node dist/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
